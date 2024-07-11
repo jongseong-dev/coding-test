@@ -1,6 +1,6 @@
 # 출처: https://school.programmers.co.kr/learn/courses/30/lessons/181832
 # 문제를 풀지 못함
-
+# 다만 다른사람의 풀이를 보고 힌트를 얻고 풀었음
 
 def solution(n):
     answer = [[0] * n for _ in range(n)]

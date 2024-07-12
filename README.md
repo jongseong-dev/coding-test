@@ -30,3 +30,4 @@
 - [dfs](book/ch05/dfs.py) - 예제 코드
 - [bfs](book/ch05/bfs.py) - 예제 코드
 - [음료수얼려먹기](book/ch05/음료수얼려먹기.py) - [0]
+- [미로탈출](book/ch05/미로탈출.py) - [x]
